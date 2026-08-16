@@ -108,8 +108,10 @@
 ![ansible](https://github.com/valdemar-2502/Introduction-to-Ansible-Homework/blob/master/screenshots/21.png)
 
 ---
-```
+---
+[run.sh](https://github.com/valdemar-2502/Introduction-to-Ansible-Homework/blob/master/run.sh)
 
+---
 ---
 
 ### Как оформить решение задания
